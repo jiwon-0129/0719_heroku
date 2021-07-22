@@ -1,0 +1,27 @@
+h1{
+    font-size: 80px;
+    color:white;
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top:18%;
+    left:30%;
+}
+.pic{
+    font-size: 40px;
+    color:aliceblue;
+    text-align: center;
+    z-index: 1;
+    top: 40%;
+    left: 30%;
+    position:absolute;
+}
+.bg{
+    position: relative;
+    max-width: 100%;
+    border: 0;
+    padding: 0;
+    background-position: center;
+    background-size: cover;
+    z-index:-1;
+}
